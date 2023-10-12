@@ -1,8 +1,6 @@
 ## MichiganTech
 
-This is a playground for educational activities that require or might benefit from a revision control system.
-
-If/When in need of a new repository or enabling a new organization feature within GitHub.com, please contact
+This is a playground for educational activities that require or might benefit from a revision control system. If/When in need of a new repository or enabling a new organization feature within GitHub.com, please contact
 
 Dr. Gowtham, PhD              
 Director of Research Computing, IT           
